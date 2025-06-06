@@ -1,0 +1,8 @@
+# --- Notion API 相關設定 ---
+NOTION_KEY=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
+PAGE_ID=20aa49006a17800db294ed1af4abf908
+
+# --- 其他專案資料 ---
+LOGIN_URL=https://sys.ndhu.edu.tw/aa/class/subjselect/Default.aspx
+USERNAME=411383025
+PASSWORD=1991.01.16
